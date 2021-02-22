@@ -49,11 +49,6 @@ namespace AngloAmers.Actions
                 }
             }
 
-            if (response == null)
-            {
-                return null;
-            }
-
             return car;
         }
 
